@@ -35,7 +35,7 @@ export const Protected = async (req: any, res: any, next: any) => {
 
 export const Login = async (req: any, res: any, next: any) => {
   const user= req.body.user;
-  console.log(user);
+  //console.log(user);
  
   if (!user) {
       return res.status(404).json({ message: "Body empty" });
