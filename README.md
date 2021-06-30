@@ -1,2 +1,22 @@
-# Task-2
-The purpose of this task is to write a Backend service that stores passwords for user services on a local in-memory DB and provides secured access to manage the stored passwords.  
+# Node_Loki_BoilerPlate
+
+## Install the dependencies:
+
+```bash
+npm install
+```
+
+## Run Project
+
+
+```bash
+npm run start
+```
+
+
+## Build Project
+
+
+```bash
+npm run build
+```
